@@ -1,2 +1,2 @@
 # Deep_Learning_TENSORFLOW
- Flower-Classification_
+ Flowers_Classification_using_CNN(Convolutional Neural Network)
